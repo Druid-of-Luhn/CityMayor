@@ -1,0 +1,49 @@
+{
+    "buildings": {
+        "flats": {
+            "name": "flats",
+            "sprites": [ "buildings/flats-1.png",
+                         "buildings/flats-2.png",
+                         "buildings/flats-3.png",
+                         "buildings/flats-4.png" ],
+            "capacity": 300,
+            "provides": "ACCOMMODATION",
+            "cost": 700000,
+            "income": 100
+        },
+        "house": {
+            "name": "house",
+            "sprites": [ "buildings/house-1.png",
+                         "buildings/house-2.png" ],
+            "capacity": 6,
+            "provides": "ACCOMMODATION",
+            "cost": 250000,
+            "income": 200
+        },
+        "offices": {
+            "name": "offices",
+            "sprites": [ "buildings/offices-1.png",
+                         "buildings/offices-2.png" ],
+            "capacity": 750,
+            "provides": "WORK",
+            "cost": 1200000,
+            "income": 5000
+        },
+        "shop": {
+            "name": "shop",
+            "sprites": [ "buildings/shop-1.png" ],
+            "capacity": 2000,
+            "provides": "GOODS",
+            "cost": 300000,
+            "income": 3000
+        },
+        "theatre": {
+            "name": "theatre",
+            "sprites": [ "buildings/theatre-1.png" ],
+            "capacity": 1250 ,
+            "provides": "ENTERTAINMENT",
+            "cost": 750000,
+            "income": 50
+        }
+    }
+}
