@@ -2,7 +2,7 @@
 
 CityMayor is a city-building simulation game built in Processing for the Video Games module at the University of St&nbsp;Andrews.
 
-![A screenshot of a large town built in CityMayor.](https://wb33.host.cs.st-andrews.ac.uk/citymayor.jpeg "CityMayor screenshot")
+![A screenshot of a large town built in CityMayor.](citymayor.jpeg "CityMayor screenshot")
 
 ## Aim of the Game
 
@@ -16,7 +16,7 @@ The game is both keyboard- and mouse-driven and the controls are explained in ga
 
 ## Actions
 
-![The list of actions available in CityMayor.](https://wb33.host.cs.st-andrews.ac.uk/citymayor-actions.png "CityMayor actions")
+![The list of actions available in CityMayor.](citymayor-actions.png "CityMayor actions")
 
 - Done: deselect the currently selected action.
 - Building: place a building, chosen from a dropdown menu.
